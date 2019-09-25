@@ -22,3 +22,15 @@ For example, when you write ```Lillestr!om``` the result will be ```Lillestrøm`
 Same goes for capsed letters:
 ```!AE => Æ```
 etc.
+
+## Media Controls
+_MediaKeys.ahk_ simulates media control buttons. You can switch tracks (for example in Spotify) with ```Alt + F1``` (previous track), ```Alt + F2``` (next track). ```Alt + 3``` is for pause/unpause.
+
+## Virtual Desktop Switcher
+Switch Windows 10 virtual desktops with ```Alt + 1``` and ```Alt + 2```.
+
+## Emails
+This script contains simple hotstrings. Typing _fdd_ results in ```marcin.michniak@example.com_```
+
+## Lightshot
+Hit ```Alt + shift + Q``` to send ```Print Screen``` key. This is just an additional shortcut.
